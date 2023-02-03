@@ -1,4 +1,6 @@
-Zuhlke Spring Framework Demos - Project 1
+# Zuhlke Spring Framework Demos - Project 1
+
+## Description:
 
 This Java project contains some classes that showcase the basic
 ideas and annotations of the popular Spring framework.
