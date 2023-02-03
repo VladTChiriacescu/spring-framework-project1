@@ -8,6 +8,8 @@ ideas and annotations of the popular Spring framework.
 It contains some simple classes that showcase the use of Spring beans,
 dependency injection, application context and Spring configuration.
 
+## Note:
+
 It has been built while following the Udemy Masterclass on Spring Framework 
 and Spring Boot 3 (this project is not a git clone of the Masterclass sources).
 The Masterclass can be found here: 
